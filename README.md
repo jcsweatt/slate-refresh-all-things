@@ -184,18 +184,6 @@ Persist to localStorage
 
 ---
 
-## Suggested Repo Structure
-
-```text
-.
-├── README.md
-├── bookmarklet.js
-├── bookmarklet.min.js
-└── screenshot.png
-```
-
----
-
 ## Author Notes
 
 This started as a quick helper tool and turned into a **mini Slate admin console**. I learned a lot, and this can definitely be improved.
