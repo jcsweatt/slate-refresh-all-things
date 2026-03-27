@@ -1,5 +1,6 @@
 # Slate "Refresh All the Things" Bookmarklet
 
+![Bookmarklet](https://img.shields.io/badge/code-javascript-blue?logo=javascript)
 ![Bookmarklet](https://img.shields.io/badge/type-bookmarklet-blue)
 ![Status](https://img.shields.io/badge/status-active-success)
 ![Storage](https://img.shields.io/badge/storage-localStorage-orange)
