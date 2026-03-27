@@ -31,8 +31,6 @@ A powerful, browser-based bookmarklet for running common **Slate database refres
 ![While Initializing](assets/slate-bookmarklet-mid-run.png)
 ![Post Initializing](assets/slate-bookmarklet-post-run.png)
 
-
-
 ---
 
 ## Supported Refresh Actions
